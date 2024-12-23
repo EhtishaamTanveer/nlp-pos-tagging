@@ -6,7 +6,7 @@ This repository contains the code and resources for a Part-of-Speech (POS) taggi
 
 Part-of-Speech tagging is the process of assigning grammatical tags (like noun, verb, adjective, etc.) to each word in a sentence. This project implements a statistical approach using HMMs, which are probabilistic models that excel at modeling sequential data. The Viterbi algorithm is employed for efficient decoding, finding the most likely sequence of POS tags given an input sentence. 
 
-Complete list of the tags assigned in the process are given [here](http://relearn.be/2015/training-common-sense/sources/software/pattern-2.6-critical-fork/docs/html/mbsp-tags.html) 
+Complete list of the tags assigned in the process are given [here](https://github.com/clips/MBSP/blob/master/tags.py) 
 
 ## Project Characteristics
 
